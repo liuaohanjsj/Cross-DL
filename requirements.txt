@@ -1,0 +1,16 @@
+wheel==0.33.6
+tensorflow==1.15.0
+keras==2.1.2
+opencv-python==4.5.4.58
+opencv-python==4.1.2.30
+tqdm==4.60.0
+protobuf==3.11.1
+pillow==8.4.0
+h5py==2.10.0
+nibabel==3.1.1
+prettytable==2.0.0
+xlrd==1.2.0
+tables==3.6.1
+nilearn==0.6.2
+joblib==0.15.0
+SimpleITK==1.2.4
